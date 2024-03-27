@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+I'm Leo,
+I work at P&G in the Customer Data Pipeline team.
+You can view my projects on my site: https://leobocci.pages.dev/ or in my github repos.
 <!--
 **leonardobocci/leonardobocci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
