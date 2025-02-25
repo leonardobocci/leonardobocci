@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm Leo,
-a data engineer at P&G in the customer data pipeline.
+a data engineer at P&G in the customer data pipeline. \
 You can view my projects on my site: https://leobocci.pages.dev/ or in my github repos.
 
 - :hammer: Currently working on: \
